@@ -1,1 +1,2 @@
 cfn-lint==0.74.0
+yamllint==1.29.0
